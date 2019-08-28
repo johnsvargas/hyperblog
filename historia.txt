@@ -1,6 +1,6 @@
-Esta archivo es de prueba
-para ver como funciona
-git y acabar otro curso de platzi
+Esta archivo es de prueba es una beta
+para ver como funciona git
+y acabar otro curso de platzi
 tengo  29
 
 ando ando aprendiendp nuevas cosas
