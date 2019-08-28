@@ -1,0 +1,3 @@
+Esta archivo es de prueba
+para ver coomo funciona
+git y acabar otro curso de platzi
